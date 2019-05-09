@@ -1,8 +1,12 @@
 from torch import nn
+
 class SE_block(nn.Module):
+    """squeeze and excitation block"""
     def __init__(self, num_features, reduction_factor=16):
         super(SE_block, self).__init__()
+        # squeeze block
         self.squeeze = nn.AdaptiveAvgPool2d(1)
+        # excitation block
         self.excite = nn.Sequential(
             nn.Linear(num_features, num_features // reduction_factor),
             nn.ReLU(inplace=True),
