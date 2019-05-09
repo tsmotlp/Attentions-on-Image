@@ -1,1 +1,1 @@
-# pytorch implementation of *Squeeze-and-Excitation Networks* and *Attention Augmented Convolutional Networks*
+## pytorch implementation of *"Squeeze-and-Excitation Networks"* and *"Attention Augmented Convolutional Networks"*
