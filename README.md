@@ -16,5 +16,4 @@
  9. test.py---code for testing</br>
  10. main.py---main file, training model 'train_interval' epochs, then testing the model a time</br>
  11. vis_tool.py---code for visualizing loss and accuracy
-</br>
 ##### if you have any question and suggestion, please contact:*hyq_tsmotlp@163.com*
