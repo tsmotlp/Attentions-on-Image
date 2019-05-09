@@ -5,7 +5,7 @@
 ### *Attention Augmented Convolutional Networks*:
 ![*Attention Augmented Convolutional Networks*](https://github.com/tsmotlp/Attentions-on-Image/blob/master/aa.png)
 ## Repository Description:
-*se_block.py*---implementation for Squeeze-and-Excitation Network</br>
+·se_block.py·---implementation for Squeeze-and-Excitation Network</br>
 aa_conv2d.py---implementation for Attention-Augmented Convolutional Network</br>
 resnet.py---basic model, including ResNet50, ResNet101, ResNet152</br>
 se_resnet.py---Squeeze-and-Excitation Block used in resnet</br>
