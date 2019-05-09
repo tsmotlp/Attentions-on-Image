@@ -1,2 +1,1 @@
-# se_block
-a pytorch implementation of Squeeze-and-Excitation block
+# pytorch implementation of *Squeeze-and-Excitation Networks* and *Attention Augmented Convolutional Networks*
